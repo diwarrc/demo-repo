@@ -1,1 +1,1 @@
-# This is a demo repo
+# This is demo repo
